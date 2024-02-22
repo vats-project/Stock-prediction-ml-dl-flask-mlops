@@ -1,0 +1,7 @@
+pandas
+numpy
+alpha_vantage
+tensorflow
+flask
+pytest
+scikit-learn
