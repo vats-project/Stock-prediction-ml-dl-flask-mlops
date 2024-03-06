@@ -45,7 +45,7 @@ def prepare_data(data):
 
 if __name__ == "__main__":
     # Symbol and API key for Alpha Vantage API
-    symbol = 'RELIANCE.BSE'
+    symbol = 'IIFL.BSE'
     api_key = 'RDW63LUED9U3S55M'
 
     # Call the train_model function
